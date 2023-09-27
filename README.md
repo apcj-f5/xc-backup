@@ -1,0 +1,1 @@
+# GH-TEMPLATE-for-new-repositories
